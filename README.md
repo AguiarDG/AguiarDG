@@ -2,12 +2,12 @@
 
 ### Sobre mim
 
-💻 Eu sou Desenvolvedor Fullstack a cerca de 8 anos.
+💻 Eu sou Desenvolvedor Full Stack a cerca de 8 anos.
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-👩‍💻 Atualmente estou em busca de novas oportunidades como Desenvolvedor FullStack Pleno/Senior
+👩‍💻 Atualmente estou em busca de novas oportunidades como Desenvolvedor Full Stack Pleno/Senior
 
 🔎 Gosto de explorar novas tecnologias
 
