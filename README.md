@@ -56,5 +56,5 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
   
 ### 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/diego-aguiar-70697925/
+- LinkedIn: https://www.linkedin.com/in/diego-aguiar-dev/
 - GitHub: https://github.com/AguiarDG
