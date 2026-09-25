@@ -1,21 +1,15 @@
 # Olá, eu sou o Diego 👋
 
-### Sobre mim
+### Desenvolvedor Backend & Full Stack | PHP | Symfony | Laravel | React
 
-💻 Eu sou Desenvolvedor Full Stack a cerca de 8 anos.
+💻 Desenvolvedor de software com mais de 10 anos de experiência em desenvolvimento Web, Backend e Full Stack.
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-👩‍💻 Atualmente estou em busca de novas oportunidades como Desenvolvedor Full Stack Pleno/Senior
+Minha principal experiência está no ecossistema PHP, atuando com desenvolvimento de APIs, sistemas Web, ERPs, integrações entre sistemas e aplicações com regras de negócio complexas.
 
-🔎 Gosto de explorar novas tecnologias
-
-✒️ Eu gosto de no meu tempo livre assistir filmes, séries, jogar(PC/XBOX);
-
-### Eu já trabalhei com... 🔧
-
-**Tecnologias e Ferramentas**
+### 🚀 Principais tecnologias 🔧
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
@@ -34,13 +28,9 @@
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
-### Eu estou estudando... 🧩
-<!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
+### 💻 Projetos
 
-![Laravel](https://img.shields.io/badge/laravel-%23F05033.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/phpunit-%2335495e.svg?style=for-the-badge&logo=phpunit&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+Aqui compartilho projetos pessoais, estudos técnicos e projetos desenvolvidos para demonstrar conhecimentos em Backend, Full Stack, APIs REST, PHP, Laravel, Yii, JavaScript e React.
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
 
@@ -55,15 +45,16 @@
 <!--
 Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 -->
-
+<!--
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/aguiardg">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguiardg&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguiardg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+-->
+  
+### 📫 Contato
 
-### Entre em contato comigo! 📭
-<div>
-<a href="https://www.linkedin.com/in/diego-aguiar-70697925/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+- LinkedIn: https://www.linkedin.com/in/diego-aguiar-70697925/
+- GitHub: https://github.com/AguiarDG
